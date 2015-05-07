@@ -1,1 +1,1 @@
-The process and scratch work for building the forecasts for the test client for a start-up. The start-up company was entered into the IQ competition at Cal Poly and made it to the finals. The competition has ended, but the work continues.
+This respository contains the process and scratch work for building the forecasts for the test client for a student start-up company at Cal Poly. The start-up company was entered into the Innovation Quest (IQ) competition at Cal Poly and made it to the finals. The competition has ended, but the work continues.
