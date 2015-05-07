@@ -1,0 +1,1 @@
+The process and scratch work for building the forecasts for the test client for a start-up. The start-up company was entered into the IQ competition at Cal Poly and made it to the finals. The competition has ended, but the work continues.
